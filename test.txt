@@ -1,1 +1,1 @@
-systeminfo;pause
+powershell -c systeminfo;pause
